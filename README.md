@@ -1,4 +1,4 @@
-# Data Analysis Using Excel Spreadsheet
+# Data Analysis Using Excel
 A spreadsheet with data from the KickStarter crowdsourcing application which holds information on a subset of the campaigns on KickStarter. Some of the information includes:
   Country
   Currency
